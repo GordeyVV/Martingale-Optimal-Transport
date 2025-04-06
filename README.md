@@ -1,4 +1,4 @@
-# Martingale optimal transport
+# Martingale Optimal Transport
 
 This is repository with implementations of the Martingale Optimal Transport problem with applications to model calibration.
 
