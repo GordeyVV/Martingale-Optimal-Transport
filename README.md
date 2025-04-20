@@ -4,3 +4,5 @@ This is repository with implementations of the Martingale Optimal Transport prob
 
 1. "From entropic transport to martingale transport, and applications to model calibration" - Benamou et al. 2024
     - ESMOT calibrator
+2. OT based Neural Calibrator using Sinkhorn Divergence
+    - Neural calibrator
